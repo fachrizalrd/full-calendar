@@ -1,7 +1,7 @@
 <section>
   <div class="quote">
     <cite>
-      WELCOME TO FULL CALENDAR WITH CI AND AJAX
+      Selamat Datang di Full Calendar dengan CI 3 dan Ajax
 
     </cite>
     <br>
